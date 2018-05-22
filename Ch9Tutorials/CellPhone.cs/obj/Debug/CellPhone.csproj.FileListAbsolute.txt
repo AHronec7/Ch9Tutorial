@@ -1,0 +1,16 @@
+G:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\bin\Debug\CellPhone.cs.dll
+G:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\bin\Debug\CellPhone.cs.pdb
+G:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.csprojResolveAssemblyReference.cache
+G:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.cs.Form1.resources
+G:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.csproj.GenerateResource.Cache
+G:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.csproj.CoreCompileInputs.cache
+G:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.cs.dll
+G:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.cs.pdb
+D:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\bin\Debug\CellPhone.cs.dll
+D:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\bin\Debug\CellPhone.cs.pdb
+D:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.csprojResolveAssemblyReference.cache
+D:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.Form1.resources
+D:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.csproj.GenerateResource.Cache
+D:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.csproj.CoreCompileInputs.cache
+D:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.cs.dll
+D:\C#\C# Ch9\Ch9Tutorials\CellPhone.cs\obj\Debug\CellPhone.cs.pdb

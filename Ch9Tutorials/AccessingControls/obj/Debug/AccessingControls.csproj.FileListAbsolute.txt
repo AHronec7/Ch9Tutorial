@@ -1,0 +1,11 @@
+D:\C#\C# Ch9\Ch9Tutorials\AccessingControls\bin\Debug\AccessingControls.exe.config
+D:\C#\C# Ch9\Ch9Tutorials\AccessingControls\bin\Debug\AccessingControls.exe
+D:\C#\C# Ch9\Ch9Tutorials\AccessingControls\bin\Debug\AccessingControls.pdb
+D:\C#\C# Ch9\Ch9Tutorials\AccessingControls\obj\Debug\AccessingControls.csprojResolveAssemblyReference.cache
+D:\C#\C# Ch9\Ch9Tutorials\AccessingControls\obj\Debug\AccessingControls.Mainform.resources
+D:\C#\C# Ch9\Ch9Tutorials\AccessingControls\obj\Debug\AccessingControls.NutritionFacts.resources
+D:\C#\C# Ch9\Ch9Tutorials\AccessingControls\obj\Debug\AccessingControls.Properties.Resources.resources
+D:\C#\C# Ch9\Ch9Tutorials\AccessingControls\obj\Debug\AccessingControls.csproj.GenerateResource.Cache
+D:\C#\C# Ch9\Ch9Tutorials\AccessingControls\obj\Debug\AccessingControls.csproj.CoreCompileInputs.cache
+D:\C#\C# Ch9\Ch9Tutorials\AccessingControls\obj\Debug\AccessingControls.exe
+D:\C#\C# Ch9\Ch9Tutorials\AccessingControls\obj\Debug\AccessingControls.pdb

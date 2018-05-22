@@ -1,0 +1,10 @@
+G:\C#\C# Ch9\Ch9Tutorials\Ch9Tutorials\bin\Debug\Ch9Tutorials.exe.config
+G:\C#\C# Ch9\Ch9Tutorials\Ch9Tutorials\bin\Debug\Ch9Tutorials.exe
+G:\C#\C# Ch9\Ch9Tutorials\Ch9Tutorials\bin\Debug\Ch9Tutorials.pdb
+G:\C#\C# Ch9\Ch9Tutorials\Ch9Tutorials\obj\Debug\Ch9Tutorials.csprojResolveAssemblyReference.cache
+G:\C#\C# Ch9\Ch9Tutorials\Ch9Tutorials\obj\Debug\Ch9Tutorials.Form1.resources
+G:\C#\C# Ch9\Ch9Tutorials\Ch9Tutorials\obj\Debug\Ch9Tutorials.Properties.Resources.resources
+G:\C#\C# Ch9\Ch9Tutorials\Ch9Tutorials\obj\Debug\Ch9Tutorials.csproj.GenerateResource.Cache
+G:\C#\C# Ch9\Ch9Tutorials\Ch9Tutorials\obj\Debug\Ch9Tutorials.csproj.CoreCompileInputs.cache
+G:\C#\C# Ch9\Ch9Tutorials\Ch9Tutorials\obj\Debug\Ch9Tutorials.exe
+G:\C#\C# Ch9\Ch9Tutorials\Ch9Tutorials\obj\Debug\Ch9Tutorials.pdb

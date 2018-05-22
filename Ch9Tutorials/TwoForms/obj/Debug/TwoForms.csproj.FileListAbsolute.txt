@@ -1,0 +1,11 @@
+D:\C#\C# Ch9\Ch9Tutorials\TwoForms\bin\Debug\TwoForms.exe.config
+D:\C#\C# Ch9\Ch9Tutorials\TwoForms\bin\Debug\TwoForms.exe
+D:\C#\C# Ch9\Ch9Tutorials\TwoForms\bin\Debug\TwoForms.pdb
+D:\C#\C# Ch9\Ch9Tutorials\TwoForms\obj\Debug\TwoForms.csprojResolveAssemblyReference.cache
+D:\C#\C# Ch9\Ch9Tutorials\TwoForms\obj\Debug\TwoForms.Mainform.resources
+D:\C#\C# Ch9\Ch9Tutorials\TwoForms\obj\Debug\TwoForms.Messageformcs.resources
+D:\C#\C# Ch9\Ch9Tutorials\TwoForms\obj\Debug\TwoForms.Properties.Resources.resources
+D:\C#\C# Ch9\Ch9Tutorials\TwoForms\obj\Debug\TwoForms.csproj.GenerateResource.Cache
+D:\C#\C# Ch9\Ch9Tutorials\TwoForms\obj\Debug\TwoForms.csproj.CoreCompileInputs.cache
+D:\C#\C# Ch9\Ch9Tutorials\TwoForms\obj\Debug\TwoForms.exe
+D:\C#\C# Ch9\Ch9Tutorials\TwoForms\obj\Debug\TwoForms.pdb

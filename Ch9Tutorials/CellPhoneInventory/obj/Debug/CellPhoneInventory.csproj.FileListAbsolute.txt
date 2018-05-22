@@ -1,0 +1,14 @@
+D:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\obj\Debug\CellPhoneInventory.Form1.resources
+D:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\obj\Debug\CellPhoneInventory.Properties.Resources.resources
+D:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\obj\Debug\CellPhoneInventory.csproj.GenerateResource.Cache
+D:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\obj\Debug\CellPhoneInventory.csproj.CoreCompileInputs.cache
+G:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\bin\Debug\CellPhoneInventory.exe.config
+G:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\bin\Debug\CellPhoneInventory.exe
+G:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\bin\Debug\CellPhoneInventory.pdb
+G:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\obj\Debug\CellPhoneInventory.Form1.resources
+G:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\obj\Debug\CellPhoneInventory.Properties.Resources.resources
+G:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\obj\Debug\CellPhoneInventory.csproj.GenerateResource.Cache
+G:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\obj\Debug\CellPhoneInventory.csproj.CoreCompileInputs.cache
+G:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\obj\Debug\CellPhoneInventory.exe
+G:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\obj\Debug\CellPhoneInventory.pdb
+G:\C#\C# Ch9\Ch9Tutorials\CellPhoneInventory\obj\Debug\CellPhoneInventory.csprojResolveAssemblyReference.cache
